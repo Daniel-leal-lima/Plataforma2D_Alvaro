@@ -12,7 +12,7 @@ TagManager:
   - Button
   - Flag
   - Door
-  - ground
+  - Ground
   layers:
   - Default
   - TransparentFX
