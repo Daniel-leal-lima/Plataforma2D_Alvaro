@@ -13,6 +13,7 @@ TagManager:
   - Flag
   - Door
   - Ground
+  - Venom
   layers:
   - Default
   - TransparentFX

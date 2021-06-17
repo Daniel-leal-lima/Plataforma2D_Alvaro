@@ -57,6 +57,11 @@
   <ItemGroup>
      <Compile Include="Assets\scripts\BGMove.cs" />
      <Compile Include="Assets\scripts\MoveCharacter.cs" />
+     <None Include="Assets\Free Pack\Tropical Moments\Tropical Moments readme.txt" />
+     <None Include="Assets\Free Pack\Rock Stingers Pack\Unity Readme.txt" />
+     <None Include="Assets\Free Pack\Door SFX Pack\Readme.txt" />
+     <None Include="Assets\Free Pack\Metal Loop Pack\readme Unity.txt" />
+     <None Include="Assets\Free Pack\Rock Loops Pack\Unity Readme.txt" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
@@ -671,6 +676,12 @@
  </Reference>
  <Reference Include="UnityEditor.UI">
  <HintPath>C:/Users/Intel/Desktop/PlatformerM/src/PlatformM/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="Cinemachine">
+ <HintPath>C:/Users/Intel/Desktop/PlatformerM/src/PlatformM/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+ </Reference>
+ <Reference Include="com.unity.cinemachine.editor">
+ <HintPath>C:/Users/Intel/Desktop/PlatformerM/src/PlatformM/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
