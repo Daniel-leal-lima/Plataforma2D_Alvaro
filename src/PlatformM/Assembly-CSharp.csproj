@@ -599,6 +599,9 @@
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/Intel/Desktop/PlatformerM/src/PlatformM/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="Cinemachine">
+ <HintPath>C:/Users/Intel/Desktop/PlatformerM/src/PlatformM/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.2D.Animation.Runtime">
  <HintPath>C:/Users/Intel/Desktop/PlatformerM/src/PlatformM/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
  </Reference>
@@ -662,6 +665,9 @@
  <Reference Include="Unity.2D.Animation.Editor">
  <HintPath>C:/Users/Intel/Desktop/PlatformerM/src/PlatformM/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="com.unity.cinemachine.editor">
+ <HintPath>C:/Users/Intel/Desktop/PlatformerM/src/PlatformM/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.Mathematics.Editor">
  <HintPath>C:/Users/Intel/Desktop/PlatformerM/src/PlatformM/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
@@ -676,12 +682,6 @@
  </Reference>
  <Reference Include="UnityEditor.UI">
  <HintPath>C:/Users/Intel/Desktop/PlatformerM/src/PlatformM/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
- </Reference>
- <Reference Include="Cinemachine">
- <HintPath>C:/Users/Intel/Desktop/PlatformerM/src/PlatformM/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
- </Reference>
- <Reference Include="com.unity.cinemachine.editor">
- <HintPath>C:/Users/Intel/Desktop/PlatformerM/src/PlatformM/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
